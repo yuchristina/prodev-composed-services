@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 390 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="0" y="0" width="390" height="230" style="fill:white;"/>
+    <g transform="matrix(1.02159,0,0,1.05353,-69.3931,-314.257)">
+        <rect x="74.055" y="360.189" width="76.377" height="33.499" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.481,-224.242)">
+        <text x="90.751px" y="311.398px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Browser</text>
+    </g>
+    <g transform="matrix(1.02159,0,0,1.05353,67.9362,-314.257)">
+        <rect x="74.055" y="360.189" width="76.377" height="33.499" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,69.8483,-224.242)">
+        <text x="103.758px" y="311.395px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">ghi</text>
+    </g>
+    <g transform="matrix(1.02159,0,0,1.05353,185.516,-374.815)">
+        <rect x="74.055" y="360.189" width="76.377" height="33.499" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,187.429,-284.8)">
+        <text x="102.088px" y="311.395px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">app</text>
+    </g>
+    <g transform="matrix(1.02159,0,0,1.05353,185.516,-259.738)">
+        <rect x="74.055" y="360.189" width="76.377" height="33.499" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,187.429,-169.723)">
+        <text x="100.09px" y="311.395px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">auth</text>
+    </g>
+    <g transform="matrix(1.02159,0,0,1.05353,185.516,-189.415)">
+        <rect x="74.055" y="360.189" width="76.377" height="33.499" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.96px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,187.429,-99.3996)">
+        <text x="85.43px" y="311.395px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">mongodb</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.794,-294.978)">
+        <path d="M211.385,377.835L152.081,377.835" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.794,-294.978)">
+        <path d="M250.398,360.189L328.965,317.277" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.794,-294.978)">
+        <path d="M250.398,395.481L328.965,432.354" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.794,-294.978)">
+        <path d="M367.978,450L367.978,485.032" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-67.794,-294.978)">
+        <path d="M367.978,334.923L367.978,413.918" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-36.8337,-274.52)">
+        <text x="214.537px" y="294.921px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">serve todo</text>
+        <text x="214.537px" y="307.314px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">item JSON</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-36.8337,-154.251)">
+        <text x="214.537px" y="294.921px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">handle login</text>
+        <text x="214.537px" y="307.314px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">&amp; registration</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-36.8337,-88.348)">
+        <text x="214.537px" y="294.921px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">store</text>
+        <text x="214.537px" y="307.314px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">credentials</text>
+    </g>
+    <g transform="matrix(1,0,0,1,94.0573,-216.904)">
+        <text x="214.537px" y="292.961px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">validate</text>
+        <text x="214.537px" y="305.354px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">authentication</text>
+        <text x="214.537px" y="317.746px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">tokens</text>
+    </g>
+</svg>
