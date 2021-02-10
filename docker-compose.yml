@@ -9,15 +9,24 @@ services:
     environment: 
       MONGODB_URL: "mongodb://localhost:27017"
       JWT_SECRET: "abcde"
-    build: ./auth
+    build:
+      context: ./auth
+      dockerfile: Dockerfile.dev
+    depends_on:
+      - mongo
   ghi:
     build: ./ghi
+    depends_on:
+      - app
+      - auth
     ports: 
       - 8910:80
     volumes: 
       - ./ghi/static:/usr/share/nginx/html
   app:
-    build: ./app
+    build:
+      context: ./app
+      dockerfile: Dockerfile.dev
     volumes: 
       - ./app/data:/usr/src/app/data
       - ./app/src:/usr/src/app/src
