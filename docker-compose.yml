@@ -1,0 +1,24 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  mongo:
+    image: mongo:4-bionic
+    restart: always
+    volumes: 
+      - ./auth/data:/data/db
+  auth:
+    environment: 
+      MONGODB_URL: "mongodb://localhost:27017"
+      JWT_SECRET: "abcde"
+    build: ./auth
+  ghi:
+    build: ./ghi
+    ports: 
+      - 8910:80
+    volumes: 
+      - ./ghi/static:/usr/share/nginx/html
+  app:
+    build: ./app
+    volumes: 
+      - ./app/data:/usr/src/app/data
+      - ./app/src:/usr/src/app/src
+
